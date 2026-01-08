@@ -1,7 +1,7 @@
 {
 	"name": "tomasmoravek.cz",
-	"short_name": "Plzeň v srdci - Náměstek primátora pro sport a volný čas",
-	"description": "Oficiální stránky náměstka primátora Plzně pro sport a volný čas Tomáše Morávka",
+	"short_name": "Plzeň v srdci - radní pro oblast podpory sportu, mládeže a tělovýchovy",
+	"description": "Oficiální stránky radního pro oblast podpory sportu, mládeže a tělovýchovy Tomáše Morávka",
 	"start_url": "/index.html",
 	"display": "standalone",
 	"background_color": "#ffffff",
